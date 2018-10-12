@@ -22,4 +22,4 @@ _Noah Schooler noahschooler1@gmail.com_
 _GitHub, HTML, CSS, Bootstrap_
 
 ### License
-Copyright (c) 2016 **_Noah Schooler_**
+Copyright (c) 2018 **_Noah Schooler_**
