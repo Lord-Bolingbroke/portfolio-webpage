@@ -1,12 +1,12 @@
 # _Portfolio webpage_
 
-#### _Basis HTML web page, 2018-10-12_
+#### _Portfolio and personal background, 2018-10-12_
 
 #### By _**Noah Schooler**_
 
 ## Description
 
-_A web page describing our coding goals and linking to a web page listing our favorite things._
+_A webpage describing my background and listing projects I have completed at Epicodus with links to their GitHub repositories._
 
 ## Setup/Installation Requirements
 
