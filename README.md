@@ -1,15 +1,13 @@
 # _Portfolio webpage_
 
-#### _Portfolio and personal background, 2018-10-12_
+#### _Coding portfolio and personal background, 2018-10-12_
 
 #### By _**Noah Schooler**_
 
 ## Description
-
 _A webpage describing my background and listing projects I have completed at Epicodus with links to their GitHub repositories._
 
 ## Setup/Installation Requirements
-
 * _Turn on computer_
 * _Log in to GitHub_
 * _Clone GitHub URL in terminal_
