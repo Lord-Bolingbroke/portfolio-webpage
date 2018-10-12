@@ -10,9 +10,14 @@ blockquote {
 }
 
 .jumbotron {
-  background-color: #A5DAFF;
+  background-color: #fff;
 }
 
 .d3 {
   border style: none;
+}
+
+a {
+  font-size: 15px;
+  font-style: italic;
 }
